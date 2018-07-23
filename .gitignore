@@ -1,0 +1,18 @@
+.idea/
+.gradle/
+
+# CMake
+cmake-build-*/
+
+# File-based project format
+*.iws
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+build/
+slowking.log
+aws/

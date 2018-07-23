@@ -1,0 +1,9 @@
+catgirl-api:
+  base-address: https://nekos.moe/
+  api-base: api/v1/
+
+logging:
+  file: slowking.log
+
+discord:
+  command-prefix: "%"

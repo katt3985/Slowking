@@ -1,0 +1,60 @@
+animals:
+  - wolf
+  - fox
+  - horse
+  - skunk
+  - tiger
+  - monkey
+  - fish
+  - shark
+  - cow
+  - badger
+  - moose
+
+habitats:
+  - town
+  - savana
+  - library
+  - fields
+  - marine
+  - woodlands
+  - tundra
+  - taiga
+  - rainforest
+  - desert
+  - spa
+  - politics
+
+
+colors:
+  - brown
+  - blue
+  - teal
+  - green
+  - black
+  - orange
+  - grey
+  - red
+  - gold
+
+traits:
+  - neat
+  - creative
+  - brave
+  - nice
+  - tough
+  - polite
+  - quiet
+  - loud
+
+items:
+  - hugs
+  - wine
+  - cheese
+  - sincerity
+  - cooking
+  - cows
+  - soda
+  - cats
+  - the moon
+
